@@ -5,18 +5,8 @@
 We want to analyze Telangana’s growth among different sectors quantitatively and provide useful Insights to the Telangana government 
 that would help them to make data-informed decisions that would further support the growth of the state.
 
-
-
-𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱 𝘁𝗼 𝘀𝗼𝗹𝘃𝗲 𝘁𝗵𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺:
-
-💡 Microsoft Power BI
-
-💡 Microsoft Powerpoint
-
-💡 Microsoft Excel
-
 **Live Dashboard** : 
-https://www.novypro.com/project/telangana-growth-analysis-22
+https://www.novypro.com/project/telangana-growth-analysis-power-bi-12
 
 **Key findings:**
 
